@@ -1,18 +1,17 @@
+
 [
-  {
-    "id": "_meta",
-    "name": "Judging in Silence",
-    "author": "Valacirca"
-  },
-  "cultleader",
-  "flowergirl",
-  "undertaker",
-  "princess",
-  "farmer",
-  "mayor",
-  "moonchild",
-  "politician",
-  "devilsadvocate",
-  "vizier",
-  "imp"
+	{ "id":"_meta",
+	"name":"Judging in Silence",
+	"author":"Valacirca"},
+	"general",
+	"cultleader",
+	"undertaker",
+	"seamstress",
+	"princess",
+	"mayor",
+	"moonchild",
+	"politician",
+	"wraith",
+	"organgrinder",
+	"kazali"
 ]
